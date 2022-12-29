@@ -1,0 +1,24 @@
+{
+  "name": "apple_tv_test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "bootstrap": "^5.2.3",
+    "pinia": "^2.0.28",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6",
+    "vue3-carousel": "^0.2.9",
+    "vue3-marquee": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.57.1",
+    "vite": "^4.0.0"
+  }
+}
